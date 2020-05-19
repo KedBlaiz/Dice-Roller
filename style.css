@@ -1,0 +1,27 @@
+body{
+   
+}
+html {
+    font-family: Impact;
+    font-weight: 400;
+    color: blue;
+    height: 100%;
+    font-size: 20px;
+}
+button {
+    font-family: monospace;
+    font-weight: 400;
+    color: white;
+    height: 100%;
+    font-size: 15px;
+    border-radius: 10%;
+    background-color:black
+}
+ol {
+    font-family: Impact;
+    font-weight: 400;
+    color:red;
+    height: 100%;
+    font-size: 15px;
+    float: center;
+}
